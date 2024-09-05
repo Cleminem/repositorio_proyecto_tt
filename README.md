@@ -11,3 +11,6 @@ Esta aplicación web, construida con Streamlit, permite explorar un conjunto de 
 
 ## Instrucciones:
 - Haz clic en los botones para generar las visualizaciones.
+
+# Enlace para aplicación en Render:
+- https://repositorio-proyecto-tt.onrender.com
